@@ -18,7 +18,7 @@
       
       <guid>/2019/05/16/create-a-website-using-blogdown/</guid>
       <description>Moj prvi post
-x&amp;lt;- c(4,7,2)y&amp;lt;- c(1,2,3)z&amp;lt;- x + yz## [1] 5 9 5</description>
+x&amp;lt;- c(4,7,2)y&amp;lt;- c(1,2,3)z&amp;lt;- x + yprint(z)## [1] 5 9 5</description>
     </item>
     
     <item>
